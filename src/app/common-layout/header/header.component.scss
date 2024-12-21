@@ -1,0 +1,33 @@
+#header {
+    display: flex;
+    background-color:gray;
+    padding:1em;
+    ul {
+      margin:0;
+      padding:0;
+      list-style:none;
+
+      li {
+        display:inline-block;
+        padding-inline: 5px;
+        a{
+            color: white;
+        }
+      }
+    }
+  }
+
+#contacts{
+    img{
+        height: 15px
+    }
+}
+
+#svb_logo {
+    img{
+        height: 80px;
+        width: 100px;
+        background-color: white;
+    } 
+}
+
